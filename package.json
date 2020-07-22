@@ -1,0 +1,15 @@
+{
+  "name": "projet",
+  "version": "1.0.0",
+  "description": "Découvrir le juste prix",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Le_Juste_Prix"
+  },
+  "author": "Yohann",
+  "license": "ISC"
+}
